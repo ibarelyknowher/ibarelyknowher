@@ -2,4 +2,4 @@
 
 <p align="center"> <img src="https://i.ibb.co/k8xPcJH/for-github.png" width="550" height="300" alt="BANNER"/> 
 
-<p align="center"> so joyful  🌷🌷🌷🦋🦋 joypilled happycelled 🦋🌷🌷 joy joy yayy 😊😊🦋🌷 yayy😊😊🦋🦋 flower joy happ butterfly yay 🦋🌷🌷🌷🦋🦋 joyousfly 🦋🦋🦋🧐 jo  🌷🦋🦋🦋😊😊yay🦋🦋🌷😊😊🙂🙂🙂🙂🙂🙂🙂🙂🙂🙂🙂🙂🙂🙂🙂joyouslu  🌷🌷🦋🦋🦋🌷🌷………………</p>
+<p align="center"> ask 4 name & prounouns </p>
