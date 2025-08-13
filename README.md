@@ -2,4 +2,4 @@
 
 <p align="center"> <img src="https://i.ibb.co/k8xPcJH/for-github.png" width="550" height="300" alt="BANNER"/> 
 
-<p align="center"> ask 4 name & prounouns </p>
+<p align="center"> always ask 4 name & prounouns </p>
