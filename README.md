@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Krona+One&size=15&duration=0.1&pause=1000&color=b8041e&center=true&vCenter=true&repeat=false&width=435&lines=always+ask+for+name+%26+pronouns" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Krona+One&size=15&duration=0.1&pause=1000&color=ff6666&center=true&vCenter=true&repeat=false&width=435&lines=always%E3%85%A4ask%E3%85%A4for%E3%85%A4name%E3%85%A4%26%E3%85%A4pronouns" alt="Typing SVG" />
    </a>
 </div>
 
