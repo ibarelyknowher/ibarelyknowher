@@ -1,10 +1,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=likovskyx&label=live%20by%20the%20sword%20die%20by%20the%20sword&color=ff6666&style=plastic" alt="likovsky" /> </p>
 
-<div align="center">
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Barrio&duration=2000&pause=10&color=0F5F7DFF&center=true&vCenter=true&width=435&lines=salt+to+taste;salt+for+the+little+hole;in+that+face" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Krona+One&duration=2000&pause=50&color=FF6666&center=true&vCenter=true&width=435&lines=i%E3%85%A4don+'t%E3%85%A4wanna%E3%85%A4get%E3%85%A4lunchly;for%E3%85%A4a%E3%85%A4new%E3%85%A4rizzler;all%E3%85%A4over%E3%85%A4again" alt="Typing SVG" />
   </a>
-</div>
+</p>
 
 <p align="center"> <img src="https://i.ibb.co/jvHqSxpk/b2f-banner.png" width="700" height="394" alt="BANNER"/>
 
