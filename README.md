@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=likovskyx&label=live%20by%20the%20sword%20die%20by%20the%20sword&color=b8041e&style=plastic" alt="likovsky" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=likovskyx&label=live%20by%20the%20sword%20die%20by%20the%20sword&color=ff6666&style=plastic" alt="likovsky" /> </p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -6,7 +6,7 @@
   </a>
 </div>
 
-<p align="center"> <img src="https://i.ibb.co/k8xPcJH/for-github.png" width="550" height="300" alt="BANNER"/>
+<p align="center"> <img src="https://i.ibb.co/jvHqSxpk/b2f-banner.png" width="700" height="394" alt="BANNER"/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
