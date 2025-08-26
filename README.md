@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <a href="https://blue.atabook.org/">prns.cc</a>
+  <a href="https://blue.atabook.org/">atabook</a>
 
 </p>
 
