@@ -20,5 +20,10 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://blue.atabook.org/">prns.cc</a>
+
+</p>
+
 
 strawpage and rentry in the making.... running out of ideas rn
