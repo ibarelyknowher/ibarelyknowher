@@ -1,8 +1,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=likovskyx&label=live%20by%20the%20sword%20die%20by%20the%20sword&color=004DC6&style=plastic" alt="likovsky" /> </p>
 
 
-
-<p align="center"> <img src="https://i.ibb.co/9mQpYyjh/blue.gif" width="280" height="349" alt="ac: me"/>
+<div align="center">
+<img src="https://i.ibb.co/9mQpYyjh/blue.gif" width="280">
+</div>
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Krona+One&duration=0.1&pause=0.1&color=004DC6&center=true&vCenter=true&repeat=false&width=435&lines=w1llbyers%E2%80%98+%231+fan" alt="Typing SVG" /></a>
