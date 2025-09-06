@@ -2,7 +2,7 @@
 
 
 <div align="center">
-<img src="https://i.ibb.co/9mQpYyjh/blue.gif" width="280">
+<img src="https://i.ibb.co/VpkNHPGS/wimi.gif" width="280">
 </div>
 
 <div align="center">
