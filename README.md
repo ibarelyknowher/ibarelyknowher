@@ -2,7 +2,7 @@
 
 
 <div align="center">
-<img src="https://i.ibb.co/9mQpYyjh/blue.gif width="280" height="349">
+<img src="https://i.ibb.co/VprQ4H7g/boymale.gif" width="597" height="540">
 </div>
 
 <div align="center">
