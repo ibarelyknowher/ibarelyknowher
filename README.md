@@ -15,9 +15,17 @@
   </a>
 </p>
 
+
+
 <p align="center">
   <a href="https://blue.atabook.org/">atabook</a>
     &nbsp;&nbsp;
   <a href="Https://rentry.co/wimi">rentry</a>
 
 </p>
+
+
+<details>
+  <summary>wip, gonna add a bunch of stuff!!</summary>
+  <p>wip</p>
+</details>
