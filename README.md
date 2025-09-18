@@ -31,6 +31,8 @@
   <a href="https://blue.atabook.org/">atabook</a>
     &nbsp;&nbsp;
   <a href="Https://rentry.co/wimi">rentry</a>
+    &nbsp;&nbsp;
+  <a href="https://discordid.netlify.app/?id=1201915598213484607">discord</a>
 
 </p>
 
