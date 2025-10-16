@@ -1,12 +1,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=likovskyx&label=live%20by%20the%20sword%20die%20by%20the%20sword&color=4BBFE6&style=plastic" alt="likovsky" /> </p>
 <div align="center">
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Happy+Monkey&size=25&duration=0.001&pause=1000000&color=D913E8&center=true&vCenter=true&width=435&lines=!+BEST+VIEWED+IN+DARK+MODE+!" alt="Typing SVG" /></a>
-</p>
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Happy+Monkey&size=25&duration=0.001&pause=1000000&color=D913E8&center=true&vCenter=true&width=435&lines=!+MIGHT+NOT+BE+MOBILE+FRIENDLY+!" alt="Typing SVG" /></a>
-</p>
 
   
 <img src="https://i.ibb.co/VprQ4H7g/boymale.gif" width="597" height="540">
@@ -33,7 +27,6 @@
     &nbsp;&nbsp;
   <a href="https://discordid.netlify.app/?id=1201915598213484607">discord</a>
     &nbsp;&nbsp;
-  <a href="https://rentry.co/thefart">ponytown bio</a>
 </p>
 
 
