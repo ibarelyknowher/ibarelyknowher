@@ -6,11 +6,6 @@
 <img src="https://i.ibb.co/VprQ4H7g/boymale.gif" width="597" height="540">
 </div>
 
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Happy+Monkey&size=20&duration=0.001&pause=1000000&color=FEFE37&center=true&vCenter=true&multiline=true&width=435&lines=w1llbyers%E2%80%98%E3%85%A4%231%E3%85%A4fan" alt="Typing SVG" /></a>
-
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Happy+Monkey&size=20&duration=0.001&pause=1000000&color=FEFE37&center=true&vCenter=true&multiline=true&width=435&lines=6%E2%80%987%E3%85%A4feminist%E3%85%A4btw%E3%85%A4%40ladies" alt="Typing SVG" /></a>
-</div>
 
 <div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
