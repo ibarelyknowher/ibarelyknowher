@@ -20,7 +20,7 @@
 <p align="center">
   <a href="https://blue.atabook.org/">atabook</a>
     &nbsp;&nbsp;
-  <a href="https://discordid.netlify.app/?id=1201915598213484607">discord</a>
+  <a href="https://pavlikovsky.straw.page/">strawpage</a>
     &nbsp;&nbsp;
 </p>
 
