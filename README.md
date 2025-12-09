@@ -18,14 +18,7 @@
 
 
 <p align="center">
-  <a href="https://blue.atabook.org/">atabook</a>
-    &nbsp;&nbsp;
-  <a href="https://pavlikovsky.straw.page/">strawpage</a>
-    &nbsp;&nbsp;
+$${\color{#FEFE37} strangemaxxing \space \color{#FEFE37}24/7}$$
+  
 </p>
 
-
-<details>
-  <summary>$${\color{#FEFE37}wip \space \color{#FEFE37}gonna \space \color{#FEFE37}add \space \color{#FEFE37}a \space \color{#FEFE37}bunch \space \color{#FEFE37}of \space \color{#FEFE37}stuff \space \color{#FEFE37}here}$$</summary>
-  <p>$${\color{#4BBFE6}wip}$$</p>
-</details>
